@@ -1,0 +1,13 @@
+# Core scientific computing packages
+numpy==1.26.4          # Fundamental package for array computing
+scipy==1.15.2          # Library for scientific computing
+matplotlib==3.9.2      # Comprehensive plotting library
+pyqt5==5.15.10		# Support QT GUI framework
+
+# Machine learning and BCI-specific packages
+scikit-learn==1.5.1    # Machine learning library
+mne==1.9.0             # MEG/EEG analysis toolbox
+
+# Additional notes:
+# - All versions are pinned for reproducibility
+# - Install using: pip install -r requirements.txt

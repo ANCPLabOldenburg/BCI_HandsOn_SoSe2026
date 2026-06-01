@@ -1,0 +1,23 @@
+# ignore data and results folders
+data/
+results/
+plots/
+logs/
+lecture/
+
+
+# ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# ignore virtual environment folders
+venv/
+.venv/
+.conda/
+.idea/
+# ignore system files
+.DS_Store
+Thumbs.db
+
+*_dev.ipynb
+*_Tutor.ipynb
